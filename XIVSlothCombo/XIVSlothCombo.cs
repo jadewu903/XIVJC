@@ -65,7 +65,7 @@ namespace XIVSlothCombo
             Service.Address.Setup(Service.SigScanner);
 
             Service.ComboCache = new CustomComboCache();
-            Service.IconReplacer = new IconReplacer();
+            // Service.IconReplacer = new IconReplacer();
             ActionWatching.Enable();
             Combos.JobHelpers.AST.Init();
 
@@ -200,7 +200,7 @@ namespace XIVSlothCombo
             Service.Interface.UiBuilder.OpenConfigUi -= OnOpenConfigUi;
             Service.Interface.UiBuilder.Draw -= DrawUI;
 
-            Service.IconReplacer?.Dispose();
+            // Service.IconReplacer?.Dispose();
             Service.ComboCache?.Dispose();
             ActionWatching.Dispose();
             Combos.JobHelpers.AST.Dispose();
