@@ -8,11 +8,11 @@
         "RepoUrl": "https://github.com/jadewu903/XIVSlothCombo-CLN",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
-        "DownloadLinkInstall": "https://github.com/jadewu903/XIVSlothCombo-CLN/archive/refs/tags/v3.1.0.5.zip",
+        "DownloadLinkInstall": "https://github.com/jadewu903/XIVSlothCombo-CLN/releases/tag/v1.0.0.0",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/jadewu903/XIVSlothCombo-CLN/archive/refs/tags/v3.1.0.5.zip",
-        "DownloadLinkUpdate": "https://github.com/jadewu903/XIVSlothCombo-CLN/archive/refs/tags/v3.1.0.5.zip",
+        "DownloadLinkTesting": "https://github.com/jadewu903/XIVSlothCombo-CLN/releases/tag/v1.0.0.0",
+        "DownloadLinkUpdate": "https://github.com/jadewu903/XIVSlothCombo-CLN/releases/tag/v1.0.0.0",
         "DownloadCount": 0,
         "LastUpdated": "0"
     }
