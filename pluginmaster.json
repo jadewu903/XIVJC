@@ -11,8 +11,8 @@
         "DownloadLinkInstall": "https://github.com/jadewu903/XIVSlothCombo-CLN/archive/refs/tags/v1.0.0.0.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/jadewu903/XIVSlothCombo-CLN/archive/refs/tags/v1.0.0.0.zip",
-        "DownloadLinkUpdate": "https://github.com/jadewu903/XIVSlothCombo-CLN/archive/refs/tags/v1.0.0.0.zip",
+        "DownloadLinkTesting": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/Testing/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
     }
