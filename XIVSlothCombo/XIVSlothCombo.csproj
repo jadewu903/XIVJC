@@ -2,7 +2,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<Authors>Team Sloth</Authors>
+		<Authors>Team Sloth and forked by j</Authors>
 		<Company>-</Company>
 		<Version>3.1.2.1</Version>
 		<!-- This is the version that will be used when pushing to the repo.-->
@@ -16,14 +16,14 @@
 		<DalamudLibPath>$(appdata)\XIVLauncher\addon\Hooks\dev\</DalamudLibPath>
 		<DalamudPluginPath>$(appdata)\XIVLauncher\installedPlugins\XIVSlothCombo\$(version)</DalamudPluginPath>
 		<DalamudDevPlugins>$(appdata)\XIVLauncher\devPlugins\XIVSlothCombo\</DalamudDevPlugins>
-		<AssemblyName>XIVSlothCombo</AssemblyName>
+		<AssemblyName>XIVJC</AssemblyName>
 		<RootNamespace>XIVSlothCombo</RootNamespace>
 		<PackageId>XIVSlothCombo</PackageId>
 		<Product>XIVSlothCombo</Product>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)' == 'Release'">
-		<TargetFramework>net7.0-windows</TargetFramework>
+		<TargetFramework>net8.0-windows</TargetFramework>
 		<Platforms>x64</Platforms>
 		<Nullable>enable</Nullable>
 		<LangVersion>preview</LangVersion>
@@ -36,7 +36,7 @@
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)' == 'Debug'">
-		<TargetFramework>net7.0-windows</TargetFramework>
+		<TargetFramework>net8.0-windows</TargetFramework>
 		<Platforms>x64</Platforms>
 		<Nullable>enable</Nullable>
 		<LangVersion>latest</LangVersion>
